@@ -14,7 +14,7 @@
 
 ## About Me
 
--  Diploma in **Electrical Engineering and Electronics Engineering**
+-  **Electrical and Electronics Engineer**
 -  Building toward a career in **Hardware & IoT Pentesting**
 -  Self-taught using 100% free resources
 -  Comfortable with circuits, embedded systems, and electronics
@@ -82,7 +82,7 @@ isaiah@kali:~$ cat current_objectives.txt
 
 ## Featured Project
 
-### [security-journey](https://github.com/ogore-samwa/security-journey)
+### [ghost-protocol](https://github.com/ogore-samwa/ghost-protocol)
 > A public log of my cybersecurity self-study — notes, writeups, and progress tracking from zero to hardware pentester.
 
 ---
