@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm ogore-samwa
+# Hey, I'm isaiah-ogore-samwa
 
 ### Electrical Engineer → Cybersecurity | Hardware & IoT Pentesting
 
