@@ -21,7 +21,7 @@ ogore@kali:~$ whoami
   Name     : Isaiah Ogore Samwa
   Background: Electrical & Electronics Engineer
   Mission  : Hardware & IoT Penetration Tester
-  Approach : 100% free resources | Learning in public
+  Approach : 100% free resources | Learning in public 
   Strength : Physical layer, circuits, embedded systems
   Status   : Actively building skills — no shortcuts
 ```
