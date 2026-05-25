@@ -48,10 +48,10 @@ ogore@kali:~$ cat objectives.txt
 
 | # | Stage | Resources | Status |
 |---|-------|-----------|--------|
-| 1 | Linux | OverTheWire: Bandit · Linux Journey | 🔄 In Progress |
-| 2 | Networking | Professor Messer N10-009 · Cisco NetAcad | ⏳ Up Next |
-| 3 | Python | CS50P · Automate the Boring Stuff | ⏳ Up Next |
-| 4 | Hardware & IoT Pentesting | Labs · VulnHub · HackTheBox | 🎯 Goal |
+| 1 | Linux | OverTheWire: Bandit · Linux Journey |  In Progress |
+| 2 | Networking | Professor Messer N10-009 · Cisco NetAcad |  In Progress |
+| 3 | Python | CS50P · Automate the Boring Stuff |  Up Next |
+| 4 | Hardware & IoT Pentesting | Labs · VulnHub · HackTheBox |  Goal |
 
 </div>
 
