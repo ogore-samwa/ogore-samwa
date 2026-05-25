@@ -16,7 +16,7 @@
 ## `whoami`
 
 ```bash
-isaiah@kali:~$ whoami
+ogore@kali:~$ whoami
 
   Name     : Isaiah Ogore Samwa
   Background: Electrical & Electronics Engineer
@@ -31,7 +31,7 @@ isaiah@kali:~$ whoami
 ## Current Objectives
 
 ```bash
-isaiah@kali:~$ cat objectives.txt
+ogore@kali:~$ cat objectives.txt
 
   [✔] Set up Kali Linux (dual boot — primary OS)
   [▶] Linux fundamentals       →  OverTheWire: Bandit
