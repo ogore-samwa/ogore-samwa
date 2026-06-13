@@ -18,12 +18,12 @@
 ```bash
 ogore@kali:~$ whoami
 
-  Name     : Isaiah Ogore Samwa
+  Name      : Isaiah Ogore Samwa
   Background: Electrical & Electronics Engineer
-  Mission  : Hardware & IoT Penetration Tester
-  Approach : 100% free resources | Learning in public 
-  Strength : Physical layer, circuits, embedded systems
-  Status   : Actively building skills — no shortcuts
+  Mission   : Hardware & IoT Penetration Tester
+  Approach  : 100% free resources | Learning in public 
+  Strength  : Physical layer, circuits, embedded systems
+  Status    : Actively building skills — no shortcuts
 ```
 
 ---
@@ -34,8 +34,8 @@ ogore@kali:~$ whoami
 ogore@kali:~$ cat objectives.txt
 
   [✔] Set up Kali Linux (dual boot — primary OS)
-  [▶] Linux fundamentals       →  OverTheWire: Bandit
-  [ ] Networking               →  Professor Messer + Cisco NetAcad
+  [▶] Linux fundamentals       →  HTB Academy + OverTheWire: Bandit
+  [▶] Networking               →  Professor Messer + Cisco NetAcad
   [ ] Python scripting         →  CS50P + Automate the Boring Stuff
   [ ] Hardware & IoT Pentesting →  The end goal
 ```
@@ -48,10 +48,10 @@ ogore@kali:~$ cat objectives.txt
 
 | # | Stage | Resources | Status |
 |---|-------|-----------|--------|
-| 1 | Linux | OverTheWire: Bandit · Linux Journey |  In Progress |
-| 2 | Networking | Professor Messer N10-009 · Cisco NetAcad |  In Progress |
-| 3 | Python | CS50P · Automate the Boring Stuff |  Up Next |
-| 4 | Hardware & IoT Pentesting | Labs · VulnHub · HackTheBox |  Goal |
+| 1 | Linux | OverTheWire: Bandit · HTB Academy · Linux Journey | 🟢 In Progress |
+| 2 | Networking | Professor Messer N10-009 · Cisco NetAcad | 🟢 In Progress |
+| 3 | Python | CS50P · Automate the Boring Stuff | ⏳ Up Next |
+| 4 | Hardware & IoT Pentesting | Labs · VulnHub · HackTheBox | 🎯 Goal |
 
 </div>
 
@@ -75,7 +75,18 @@ ogore@kali:~$ cat objectives.txt
 **Cybersecurity Stack**
 
 ![Kali](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![HTB](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![IoT](https://img.shields.io/badge/IoT-Pentesting-00FF41?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+---
+
+## HackTheBox Stats
+
+<div align="center">
+
+<img src="https://www.hackthebox.com/badge/image/019e8a23-17dd-71bb-812e-135fe9d94618" alt="HackTheBox Badge" />
+
+</div>
 
 ---
 
@@ -94,6 +105,40 @@ ogore@kali:~$ cat objectives.txt
 
 ---
 
+## 3D Contribution Graph
+
+<div align="center">
+
+<img src="profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
+## Metrics
+
+<div align="center">
+
+<img src="metrics.svg" width="100%" alt="GitHub Metrics" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogore-samwa/ogore-samwa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogore-samwa/ogore-samwa/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ogore-samwa/ogore-samwa/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## Featured Project
 
 <div align="center">
@@ -106,11 +151,25 @@ ogore@kali:~$ cat objectives.txt
 
 ---
 
+## Blog
+
+<div align="center">
+
+[![AnimeReckoning](https://img.shields.io/badge/Blog-AnimeReckoning-FF6B35?style=for-the-badge&logo=jekyll&logoColor=white)](https://ogore-samwa.github.io/animereckoning)
+
+*Anime reviews, rankings & deep dives — built with Jekyll & GitHub Pages*
+
+</div>
+
+---
+
 ## Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@ogore--samwa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ogore-samwa)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e8a23-17dd-71bb-812e-135fe9d94618)
+[![Email](https://img.shields.io/badge/Email-samogore8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samogore8@gmail.com)
 
 </div>
 
