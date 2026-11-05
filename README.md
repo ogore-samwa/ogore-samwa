@@ -1,106 +1,90 @@
 <div align="center">
-  <!-- Stable Native Visual Title -->
-  <h1>⚡ ROOT @ CIRCUITSHIELD ⚡</h1>
+  <!-- Ultra-Stable High-Performance Heading -->
+  <h1>⚡ OGORE@CIRCUITSHIELD: ~ ⚡</h1>
   
-  <br/>
-
-  <!-- High-Fidelity Custom Terminal Typing Banner -->
-  <img src="https://demolab.com." alt="Typing SVG" />
-
   <p align="center">
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
+    <a href="https://kali.org"><img src="https://shields.io" /></a>
+    <a href="https://hackthebox.com"><img src="https://shields.io" /></a>
+    <a href="#"><img src="https://shields.io" /></a>
   </p>
 </div>
 
-## System Status
+## 🖥️ System Information
 
 ```bash
-ogore@circuitshield:~\$ neofetch --theme hardware-hacker
+ogore@circuitshield:~\$ neofetch --profile
 ```
 <table>
   <tr>
     <td>
       <pre>
  <b>     _</b>
- <b>    / \ </b>     <b>OS</b>: Kali Linux (Bare Metal)
- <b>   |   |</b>     <b>HOST</b>: Embedded & IoT Lab
- <b>   |---|</b>     <b>KERNEL</b>: Electronics-Engineering-5.26
- <b>  /     \</b>    <b>LOC</b>: Nairobi, Kenya [EAT]
- <b> |       |</b>   <b>FOCUS</b>: Hardware & IoT Pentesting
- <b>  \_____/</b>    <b>MODE</b>: 100% Self-Taught / Open Source
+ <b>    / \ </b>     <b>USER</b>: Isaiah Ogore Samwa
+ <b>   |   |</b>     <b>OS</b>: Kali Linux (Bare Metal)
+ <b>   |---|</b>     <b>HOST</b>: Embedded & IoT Lab
+ <b>  /     \</b>    <b>KERNEL</b>: Electronics-Engineering-5.26
+ <b> |       |</b>   <b>APPROACH</b>: 100% Free Resources | Learning In Public
+ <b>  \_____/</b>    <b>STATUS</b>: Actively Building — No Shortcuts
       </pre>
     </td>
     <td>
       <ul>
-        <li><b>Approach:</b> Learning in public, no shortcuts, no backdoors.</li>
-        <li><b>Strengths:</b> Physical layer, circuit schematics, RF & embedded systems.</li>
-        <li><b>Current Operation:</b> Actively reverse engineering firmware binaries.</li>
+        <li><b>Background:</b> Electrical & Electronics Engineering.</li>
+        <li><b>Core Focus:</b> Physical layer diagnostics, circuit tracking, RF signals.</li>
+        <li><b>Mission:</b> Reverse engineering hardware ecosystems to secure them.</li>
       </ul>
     </td>
   </tr>
 </table>
 
 ```bash
-ogore@circuitshield:~\$ cat /etc/cron.d/objectives
+ogore@circuitshield:~\$ cat /etc/cron.d/objectives.txt
 ```
 ```diff
-+ [ACTIVE]   Deploying firmware analysis frameworks on bare-metal Kali
-+ [ACTIVE]   Linux Fundamentals & Bash Automation (HTB Academy + OverTheWire)
-+ [ACTIVE]   Network Analysis & Packet Auditing (Professor Messer + NetAcad)
-+ [ACTIVE]   Cybersecurity Blueprint (Mediacrest Training College)
-! [QUEUED]   Python for Exploitation & Tool Scripting (CS50P + Automate)
-- [PENDING]  Cert Pipeline: Network+ ➔ Security+ ➔ eJPT ➔ OSCP ➔ GICSP
-- [TARGET]   Hardware Breakpoints, JTAG / UART Glitching & Logic Exploits
++ [DONE]     Deploy Kali Linux on bare-metal hardware station
++ [ACTIVE]   Linux Fundamentals ➔ HTB Academy + OverTheWire: Bandit
++ [ACTIVE]   Networking Architecture ➔ Professor Messer + Cisco NetAcad
++ [ACTIVE]   Cybersecurity Track ➔ Mediacrest Training College
+! [QUEUED]   Python for Automation & Tool Development (CS50P)
+- [PENDING]  Certification Blueprint: Network+ ➔ Security+ ➔ eJPT ➔ OSCP ➔ GICSP
+- [TARGET]   Hardware Exploitation: JTAG / UART Glitching & Bus Auditing
 ```
 
-## ⚡ Tech Arsenal
+## ⚡ Technical Arsenal
 
-### Hardware & Electronics Engineering
-<img src="https://skillicons.dev" alt="Hardware Tech Stack" />
+```bash
+ogore@circuitshield:~\$ ls -la ~/skills/hardware
+```
+*   **Engineering Foundation:** Circuit Design · Signal Processing · Schematic Capture
+*   **Embedded Frameworks:** AVR Architecture · ARM Architectures · Firmware Prototyping
+*   **Hardware Ecosystems:** Arduino Systems · Oscilloscope Analysis · Logic Interfacing
 
-### Software, Networking & Security Ecosystem
-<img src="https://skillicons.dev" alt="Software Tech Stack" />
+```bash
+ogore@circuitshield:~\$ ls -la ~/skills/cybersecurity
+```
+*   **Security Environments:** Bare-Metal Kali Linux · Target Interception Tools
+*   **Network Exploitation:** Packet Analysis (Wireshark) · Network Reconnaissance (Nmap)
+*   **Infrastructure Skills:** Linux Environments · Bash Scripting · Automation Frameworks
 
-## Activity Ecosystem
+## 📌 Active Operations & Blueprints
 
-<div align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://herokuapp.com" width="48%" />
-</div>
+```bash
+ogore@circuitshield:~\$ diagnostics --list-repositories
+```
 
-<br/>
+### 📁 [ghost-protocol](https://github.com)
+> Public log of my cybersecurity self-study: system architecture logs, hardware reverse-engineering logs, and firmware analysis blueprints.
 
-<div align="center">
-  <img src="https://vercel.app" width="50%" />
-</div>
+### 📁 [ctf-writeups](https://github.com)
+> Tactical walkthroughs of completed CTF challenges detailing exploitative theory, flags, and mitigation methodologies.
 
-### Contribution Track
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
-    <img alt="contribution snake animation" src="https://githubusercontent.com" />
-  </picture>
-</div>
+---
 
-## Featured Operations
+## 🤝 Establish Connection
 
-<div align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://vercel.app" />
-  </a>
-</div>
-
-> **ghost-protocol** — Public log of my cybersecurity self-study: hardware reverse-engineering logs, firmware analysis notes, and system architecture blueprints.
->
-> **ctf-writeups** — Technical walkthroughs of completed CTF challenges detailing exploitative theory, flags, and tactical methodology.
-
-## Connect & Validate
+```bash
+ogore@circuitshield:~\$ ping -c 1 external-networks
+```
 <div align="center">
   <a href="https://github.com"><img src="https://shields.io" /></a>
   <a href="https://hackthebox.com"><img src="https://shields.io" /></a>
