@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Premium Header Canvas -->
-  <img src="https://vercel.app" width="100%" />
+  <!-- Stable Native Visual Title -->
+  <h1>⚡ ROOT @ CIRCUITSHIELD ⚡</h1>
   
   <br/>
 
@@ -55,7 +55,7 @@ ogore@circuitshield:~\$ cat /etc/cron.d/objectives
 - [TARGET]   Hardware Breakpoints, JTAG / UART Glitching & Logic Exploits
 ```
 
-## Tech Arsenal
+## ⚡ Tech Arsenal
 
 ### Hardware & Electronics Engineering
 <img src="https://skillicons.dev" alt="Hardware Tech Stack" />
