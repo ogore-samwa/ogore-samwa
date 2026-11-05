@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Isaiah+Ogore+Samwa;Electrical+%26+Electronics+Engineer;Aspiring+Hardware+%26+IoT+Pentester;Breaking+things+to+understand+them.;%22Each+of+us+lives%2C+dependent+and+bound;by+our+individual+knowledge+and+awareness.;One%27s+reality+might+be+another%27s+illusion.%22+%E2%80%94+Itachi" alt="Typing SVG" />
+<img src="assets/circuit-banner.svg" width="100%" alt="Isaiah Ogore Samwa - Electrical &amp; Electronics Engineer, Web &amp; API Security" />
 
 <br/>
 
-[![Kali Linux](https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Focus](https://img.shields.io/badge/Focus-Hardware%20%26%20IoT%20Pentesting-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)](/)
-[![Mode](https://img.shields.io/badge/Mode-Self--Taught-brightgreen?style=for-the-badge)](/)
+[![Kali Linux](https://img.shields.io/badge/Lab-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Now](https://img.shields.io/badge/Now-Web%20%26%20API%20Security-blueviolet?style=for-the-badge)](#-currently)
+[![Goal](https://img.shields.io/badge/Goal-OT%2FICS%20%26%20Hardware%20Pentesting-FF6B35?style=for-the-badge)](#-roadmap)
 [![Location](https://img.shields.io/badge/Based%20In-Nairobi%2C%20Kenya-006600?style=for-the-badge)](/)
 
 </div>
-
-
 
 ## `whoami`
 
@@ -20,123 +18,69 @@
 └─$ whoami
 
   Name        :  Isaiah Ogore Samwa
-  Background  :  Electrical & Electronics Engineering
-  Mission     :  Hardware & IoT Penetration Tester
-  Approach    :  100% free resources | Learning in public
-  Strength    :  Physical layer · Circuits · Embedded systems
-  Status      :  Actively building — no shortcuts, no backdoors
+  Background  :  Electrical & Electronics Engineering (Diploma)
+  Now         :  Web & API security — PortSwigger Web Security Academy
+  Next        :  Python for security automation
+  Long-term   :  OT/ICS and Hardware/IoT penetration testing
+  Approach    :  Learning in public — every lab documented, every mistake written up
 ```
 
+I'm an electrical engineer who found security through the physical layer. I'm building a
+foundation in networking, Linux, and web application security first, then taking it back to
+the hardware, embedded devices, and industrial systems I started with.
 
+## Currently
 
-## `cat /etc/objectives`
+-  **PortSwigger Web Security Academy**: Apprentice labs done, working through Practitioner
+-  **Burp Suite** (Proxy, Repeater, Intruder) against a local DVWA / Metasploitable2 lab
+-  **SQL** and **HTTP / JavaScript** fundamentals, to understand what I'm attacking
+-  **AutoCAD** for electrical design, documented in a separate repo
 
-```
-┌──(ogore㉿kali)-[~]
-└─$ cat objectives.txt
+> All testing is done in authorized, local lab environments (VirtualBox, TryHackMe, HTB, PortSwigger).
 
-  [✔] Deploy Kali Linux — bare metal (primary OS)
-  [▶] Linux Fundamentals    →  HTB Academy + OverTheWire: Bandit
-  [▶] Networking            →  Professor Messer N10-009 + Cisco NetAcad
-  [▶] Cybersecurity Cert    →  Mediacrest Training College (in progress)
-  [ ] Python Scripting      →  CS50P + Automate the Boring Stuff
-  [ ] Certifications        →  Network+ → Security+ → eJPT → OSCP → GICSP
-  [ ] Hardware & IoT Pentest →  The end goal
-```
+## Roadmap
 
+| Stage | Focus | Status |
+|-------|-------|--------|
+| 1 | **Linux**: OverTheWire Bandit, HTB Academy Linux Fundamentals, TryHackMe | Done |
+| 2 | **Networking**: N10-009 study (TCP/IP, subnetting, DNS, VLANs), Cisco NetAcad, Packet Tracer | Done |
+| 3 | **Security foundations**: TryHackMe *Pre Security* and *Cyber Security 101*, Mediacrest Cybersecurity Program (Aug 2026) | Done |
+| 4 | **Web & API security**: PortSwigger Academy, Burp Suite | In progress |
+| 5 | **Python and scripting** for security automation | In progress |
+| 6 | **Certification path**: Security+ → eJPT → OSCP → GICSP | Planned |
+| 7 | **OT/ICS and Hardware/IoT pentesting**: the end goal | Goal |
 
+## Toolbox
 
-## Learning Roadmap
+**Security**
 
-<div align="center">
+![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00FF41?style=flat-square&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
-| # | Stage | Resources | Status |
-|---|-------|-----------|--------|
-| 1 | Linux | OverTheWire: Bandit · HTB Academy · Linux Journey |  In Progress |
-| 2 | Networking | Professor Messer N10-009 · Cisco NetAcad |  In Progress |
-| 3 | Cybersecurity Foundations | Mediacrest Training College |  In Progress |
-| 4 | Python | CS50P · Automate the Boring Stuff |  Up Next |
-| 5 | Hardware & IoT Pentesting | Labs · VulnHub · HackTheBox |  Goal |
+**Languages and systems**
 
-</div>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**Engineering**
 
+![Electronics](https://img.shields.io/badge/Electronics-FF6B35?style=flat-square)
+![Embedded](https://img.shields.io/badge/Embedded%20Systems-E63946?style=flat-square&logo=arduino&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
 
-## `ls ~/arsenal`
-
-**Electrical Engineering Background**
-
-![Electronics](https://img.shields.io/badge/Electronics-Engineering-FF6B35?style=for-the-badge&logo=electron&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded-Systems-E63946?style=for-the-badge&logo=arduino&logoColor=white)
-![Signal](https://img.shields.io/badge/Signal-Processing-8338EC?style=for-the-badge&logo=oscilloscope&logoColor=white)
-
-**Currently Learning**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Cybersecurity Stack**
-
-![Kali](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![HTB](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-
-**Tools — Active Use**
-
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-00FF41?style=for-the-badge&logo=gnubash&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-
-
-## HackTheBox Stats
-
-<div align="center">
-
-<img src="https://www.hackthebox.com/badge/image/019e8a23-17dd-71bb-812e-135fe9d94618" alt="HackTheBox Badge" />
-
-</div>
-
-
-
-## GitHub Stats
+<details>
+<summary><b>📈 Activity</b></summary>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ogore-samwa&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ogore-samwa&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogore-samwa&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41" width="40%" />
-
-</div>
-
-
-
-## 3D Contribution Graph
-
-<div align="center">
-
-<img src="profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Graph" />
-
-</div>
-
-
-
-## Metrics
-
-<div align="center">
-
-<img src="metrics.svg" width="100%" alt="GitHub Metrics" />
-
-</div>
-
-
-
-## Contribution Snake
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogore-samwa/ogore-samwa/output/github-contribution-grid-snake-dark.svg" />
@@ -146,23 +90,7 @@
 
 </div>
 
-
-
-## Featured Project
-
-<div align="center">
-
-[![ghost-protocol](https://github-readme-stats.vercel.app/api/pin/?username=ogore-samwa&repo=ghost-protocol&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ogore-samwa/ghost-protocol)
-
-[![ctf-writeups](https://github-readme-stats.vercel.app/api/pin/?username=ogore-samwa&repo=ctf-writeups&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)](https://github.com/ogore-samwa/ctf-writeups)
-
-</div>
-
-> `ghost-protocol` — Public log of my cybersecurity self-study: notes, writeups, and progress from zero to hardware pentester.
->
-> `ctf-writeups` — CTF challenge solutions with methodology, flags, and concepts learned.
-
-
+</details>
 
 ## Connect
 
@@ -170,22 +98,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-@ogore--samwa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ogore-samwa)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Oxsamogore-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e8a23-17dd-71bb-812e-135fe9d94618)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE-WITH-YOUR-HANDLE)
 [![Email](https://img.shields.io/badge/Email-samogore8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samogore8@gmail.com)
 
-</div>
-
-
-
-<div align="center">
-
-```
-[ access granted ] — root@circuitshield
-```
-
-*"The quieter you become, the more you are able to hear." — Kali Linux*
-
-<br/>
-
-![Views](https://komarev.com/ghpvc/?username=ogore-samwa&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
